@@ -1,22 +1,22 @@
 
 import React, { useState, useEffect } from 'react';
-import { storage } from './storage';
-import { User } from './types';
-import Login from './components/Login';
-import Layout from './components/Layout';
-import Dashboard from './components/Dashboard';
-import Production from './components/Production';
-import Sales from './components/Sales';
-import RawMaterials from './components/RawMaterials';
-import SpecialOrders from './components/SpecialOrders';
-import Salary from './components/Salary';
-import Expenses from './components/Expenses';
-import Stock from './components/Stock';
-import Problems from './components/Problems';
-import Analytics from './components/Analytics';
-import Settings from './components/Settings';
-import Attendance from './components/Attendance';
-import Team from './components/Team';
+import { storage } from './storage.ts';
+import { User } from './types.ts';
+import Login from './components/Login.tsx';
+import Layout from './components/Layout.tsx';
+import Dashboard from './components/Dashboard.tsx';
+import Production from './components/Production.tsx';
+import Sales from './components/Sales.tsx';
+import RawMaterials from './components/RawMaterials.tsx';
+import SpecialOrders from './components/SpecialOrders.tsx';
+import Salary from './components/Salary.tsx';
+import Expenses from './components/Expenses.tsx';
+import Stock from './components/Stock.tsx';
+import Problems from './components/Problems.tsx';
+import Analytics from './components/Analytics.tsx';
+import Settings from './components/Settings.tsx';
+import Attendance from './components/Attendance.tsx';
+import Team from './components/Team.tsx';
 
 export type Page = 
   | 'dashboard' 

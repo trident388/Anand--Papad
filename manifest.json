@@ -3,7 +3,7 @@
   "name": "Anand Papad Business",
   "short_name": "Anand Papad",
   "description": "Business Management System for Anand Papad",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#4f46e5",
   "theme_color": "#4f46e5",
