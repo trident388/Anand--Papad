@@ -9,7 +9,7 @@ import {
   ProblemLog, 
   SpecialOrder,
   AttendanceRecord
-} from './types';
+} from './types.ts';
 
 const STORAGE_KEYS = {
   USERS: 'ap_users_v2',

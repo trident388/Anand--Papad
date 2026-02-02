@@ -1,5 +1,5 @@
 
-import { PapadCategory, RawMaterial } from './types';
+import { PapadCategory, RawMaterial } from './types.ts';
 
 export const PAPAD_CATEGORIES: PapadCategory[] = [
   'udid papad',
