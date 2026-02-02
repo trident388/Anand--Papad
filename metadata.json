@@ -1,0 +1,7 @@
+{
+  "name": "Anand Papad Management",
+  "description": "A comprehensive business management system for Anand Papad, featuring production tracking, sales, inventory, expense management, multi-user accounts, and AI-powered analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
